@@ -26,4 +26,4 @@ You are granted a non-transferable, non-exclusive license to use Meadow on any A
 The Developer is solely responsible for providing any maintenance and support services for Meadow. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the app. In the event of any failure of the app to conform to any applicable warranty, Apple will have no other warranty obligation whatsoever. Apple is not responsible for addressing any claims by you or any third party relating to the app.
 
 ## 6. Contact
-For support or to report a violation of this Agreement, please contact [Insert Contact Email].
+For support or to report a violation of this Agreement, please contact morenokristophan@icloud.com.

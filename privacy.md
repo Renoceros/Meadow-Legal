@@ -23,4 +23,4 @@ You have complete control over your data:
 - **Unpair & Erase:** By using the "Unpair" feature, you instantly sever the link between you and your partner. You have the right to request full deletion of your session data and uploaded content from our servers.
 
 ## 5. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at [Insert Contact Email].
+If you have any questions or concerns about this Privacy Policy, please contact us at morenokristophan@icloud.com.
